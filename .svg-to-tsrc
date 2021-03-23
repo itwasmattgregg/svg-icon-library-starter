@@ -4,12 +4,12 @@
       "./svg-icons/**/*.svg"
     ],
     "outputDirectory": "./dist/icons",
-    "interfaceName": "REPLACE_ME",
-    "typeName": "REPLACE_ME",
-    "prefix": "REPLACE_ME",
+    "interfaceName": "ITechIcon",
+    "typeName": "TechIcon",
+    "prefix": "TechIcon",
     "generateType": true,
-    "exportCompleteIconSet": true,
+    "exportCompleteIconSet": false,
     "optimizeForLazyLoading": true,
-    "modelFileName": "REPLACE_ME.model",
+    "modelFileName": "TechIcon.model",
     "compileSources": true
 }
